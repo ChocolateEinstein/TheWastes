@@ -1,0 +1,17 @@
+Long Travel Shocks,0,0,0,0,2,2000,Sproing!
+Mud Tires,0,0,0,0,2,800,Get you out of a bog.
+Wide Tires,0,0,1,0,1,800,Might need to cut the fenders a bit.
+Reactive Plating,400,0,0,0,0,8000,Armor that bites back!
+Turbo,0,3,0,0,0,1500,MOREAIRBIGGERAIRMOREAIRMOREAIRBIGGERAIR
+ECU tune,0,2,0,0,0,100,Get more power from the magic of tuning
+Sheet Steel Armor,300,-1,0,0,0,500,It's made out of vibranium!
+Short Rack,0,0,2,0,0,500,Steer like a go kart!
+LS swap,0,4,0,0,0,3000, it's faster and more reliable!'
+Bulletproof Windows,300,-1,0,0,0,4000,Look death right in the eyes.
+Drilled Brake Disks,0,0,0,1,0,250,Home drilled rotors.
+Slotted Brake Disks,0,0,0,2,0,500,Allow outgassing from the brake pads.
+Straight Pipe Exaust,0,1,0,0,0,800,This might attract some attention.
+Cold Air intake,0,1,0,0,0,200,Easiest upgrade in the catalog.
+Cut Springs,0,0,2,0,-4,100,Unload the springs BEFORE you cut!
+Sway Bars,0,0,4,0,-1,1000,Slow your roll.
+Coilover Shocks,0,0,3,0,-2,2000,'Camber brah!'

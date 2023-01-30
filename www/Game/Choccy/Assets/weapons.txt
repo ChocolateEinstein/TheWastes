@@ -1,0 +1,8 @@
+Minigun,150,2000,'LET FREEDOM RING!'
+Mounted MG,125,1500,pewpewpew
+Mounted Rifle,75,750,An AK-47 jimmied to the hood.
+Mounted SMG,50,250,An MP5 sat in a makeshift cradle.
+Flamethrower,100,1000,'Burn baby burn.'
+Held Shotgun,25,200,Just a handheld shotgun.
+Gauss Cannon,999,9999,Magnets; how do they work?
+Laser Ablator,300,5000,'hot Hot HOT!'

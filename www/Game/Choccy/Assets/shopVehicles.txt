@@ -1,0 +1,14 @@
+Jeep,200,3,2,3,7,5000,It's a Jeep thing you wouldn't understand.
+Limo,500,2,1,2,1,8000,The biggest limo the best limo
+Prius,100,2,4,2,3,2000,Get that gas milage!
+Grey Minivan,150,3,3,5,3,1500,Fun for the whole family
+Pickup,100,3,2,2,8,3000,Hey, can I borrow your truck?
+Beamer,100,5,7,5,2,4000,Parts are really getting hard to come by.
+Blue Chopper,50,7,8,3,3,1000,Wear some ear protection.
+Yellow Chopper,50,8,7,3,2,1000,Wear some ear protection.
+Red Chopper,50,7,8,3,3,1000,Wear some ear protection.
+Green Chopper,50,8,7,3,2,1000,Wear some ear protection.
+Box Truck,300,1,1,1,2,4000,I mean it's hard to kill, I guess.
+Enduro Bike,50,7,7,7,9,1500,Go anywhere fun!
+Red Minivan,150,5,3,5,3,1500,Fun for the whole family
+Evo,100,8,8,9,2,6000,Look at all that boost!
